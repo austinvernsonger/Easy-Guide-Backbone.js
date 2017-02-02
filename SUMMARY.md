@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Section 1](section-1.md)
-  * Environment Setup
+  * [Environment Setup](section-1/environment-setup.md)
   * Application
   * Events
 * [Section 2](section-2.md)
