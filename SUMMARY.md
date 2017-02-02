@@ -4,7 +4,7 @@
 * [Section 1](section-1.md)
   * [Environment Setup](section-1/environment-setup.md)
   * [Application](section-1/application.md)
-  * Events
+  * [Events](section-1/events.md)
 * [Section 2](section-2.md)
   * [Model](section-2/model.md)
   * [Collection](section-2/collection.md)
